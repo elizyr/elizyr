@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome!&durationPerChar=40&pause=10" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&width=400&lines=Hello+World!;Welcome!" />
+</p>
 
 ### Olá! Eu sou a Vanessa 👾
 
