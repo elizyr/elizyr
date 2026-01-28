@@ -11,7 +11,6 @@
 ### Perfil Profissional 👩‍💻
 
 ⚡ Desenvolvimento de APIs RESTful robustas e escaláveis  
-💾 Python e SQL aplicados em soluções eficientes e funcionais  
 📝 Código limpo, organizado e versionado com boas práticas profissionais  
 🌟 Proativa e dedicada, sempre em busca de aprendizado contínuo e evolução técnica
   
