@@ -24,7 +24,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 ### 🤝 Vamos nos conectar: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizyir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisyir/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF66B2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elizyir)
 
 
