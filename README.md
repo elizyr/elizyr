@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome!&durationPerChar=40&pause=10" />
 </h1>
 
-### Olá! Sou a Vanessa 👾
+### Olá! Eu sou a Vanessa 👾
 
 💻 Desenvolvedora Back-End Java em formação  
 🎓 Estudante de Engenharia de Software  
