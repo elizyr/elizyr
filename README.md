@@ -5,7 +5,7 @@
 
 ### Olá! Sou a Vanessa 👾
 
-💻 Desenvolvedora Back-End em formação  
+💻 Desenvolvedora Back-End Java em formação  
 🎓 Estudante de Engenharia de Software  
 🚀 Buscando oportunidade de estágio 
 
