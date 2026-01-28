@@ -16,7 +16,7 @@
 🌟 Proativa e dedicada, sempre em busca de aprendizado contínuo e evolução técnica
   
 
-### 🛠️ Minha Stack:
+### 🛠️ Tech Stack:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40"/>
