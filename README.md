@@ -16,13 +16,15 @@
 🌟 Proativa e dedicada, sempre em busca de aprendizado contínuo e evolução técnica
   
 
-### 🛠️ Tech Stack: 
-![Java](https://img.shields.io/badge/Java-FDDC69?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+### 🛠️ Tech Stack:
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>
+</p>
 
-### 🤝 Vamos nos conectar: 
+### 🤝 Vamos conectar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisyir/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF66B2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elizyir)
 
