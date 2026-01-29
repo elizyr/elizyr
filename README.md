@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&width=400&lines=Hello+World!;Welcome!" />
 </p>
 
-### Olá! Eu sou a Vanessa!
+### Olá! Eu sou a Vanessa 👋
 
-💻 Desenvolvedora Back-End Java em formação  
+💻 Desenvolvedora Back-End Java em formação
 🎓 Estudante de Engenharia de Software
-🚀 Buscando oportunidade de estágio 
+🚀 Em busca de oportunidades de estágio 
 
 ### Perfil Profissional 👩‍💻
 
