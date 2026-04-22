@@ -4,28 +4,25 @@
 
 ## 👋 Olá! Eu sou a Vanessa!
 
-💻 Analista de Dados  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedora Back-End Java  
+🎓 Estudante de Engenharia de Software  
 
 ## 🚀 Perfil Profissional
 
-- Desenvolvimento de análises de dados eficientes e escaláveis  
-- Manipulação, tratamento e visualização de dados com boas práticas  
-- Código limpo, organizado e versionado  
-- Proativa e dedicada, sempre em evolução técnica  
+- Desenvolvimento de aplicações back-end utilizando Java e Spring Boot  
+- Criação de APIs REST com boas práticas de arquitetura  
+- Integração com banco de dados relacionais (SQL)  
+- Código limpo, organizado e versionado com Git  
 
 ## 🛠️ Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-FFEB3B?style=for-the-badge&logo=openjdk&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-FF8C42?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=database&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/HTML-FF8C42?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-FF8C42?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ## 📫 Contato
