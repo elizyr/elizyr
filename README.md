@@ -1,5 +1,5 @@
 ## Vanessa Elisabeth Meyer
-- 🎓 Cursando Engenharia de Software
+- 🎓 Cursando Ciência da Computação
 - 💻 Foco em automação de testes e qualidade de software
 - ⭐ Em constante evolução
 
