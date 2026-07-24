@@ -1,5 +1,5 @@
 ## Vanessa Elisabeth Meyer
-- 🎓 Cursando Ciência da Computação
+- 🎓 Cursando Engenharia de Software
 - 💻 Foco em automação de testes e qualidade de software
 - ⭐ Em constante evolução
 
@@ -33,7 +33,5 @@
 
 ---
 
-### 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/elisyir/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://SEU-PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizyir)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:elizmeyer95@gmail.com)
